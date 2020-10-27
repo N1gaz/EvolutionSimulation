@@ -1,6 +1,9 @@
+<h1>Evolution Simulation App</h1>
 <img src="/information/cj.jpeg">
+
+
 Scrum Desk: https://trello.com/b/aEWo4YN5/evolutionsimulation <br>
-<h1>Diagrams:</h1>
+<h3>Diagrams:</h3>
 1. UseCase diagram<br>
   https://app.creately.com/diagram/db1n453FlvV/edit <br>
   <img src="/information/UseCaseDiagram.png"><br>
