@@ -82,7 +82,7 @@ https://trello.com/b/aEWo4YN5/evolutionsimulation <br>
     <li>
       <h4>UseCase diagram:</h4>
       https://app.creately.com/diagram/db1n453FlvV/edit
-      <img src="/information/UseCaseDiagram.png">
+      <img src="/information/Use-case.png">
     </li>
     <li>
       <h4>Sequnece diagram:</h4>
