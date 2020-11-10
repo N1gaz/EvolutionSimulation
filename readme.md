@@ -1,6 +1,5 @@
 <h1>Evolution Simulation App</h1>
 Программа предназначена для наглядного ознакомления с принципами работы генетических (и других) алгоритмов эволюции в процессе взаимодействия со средой симуляции.<br>
-<img src="/information/cj.jpeg">
 <h2>Scrum Desk: </h2><br>
 https://trello.com/b/aEWo4YN5/evolutionsimulation <br>
 
