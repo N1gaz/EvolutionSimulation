@@ -41,8 +41,75 @@ body {
     position: absolute;
     width: 838px;
     height: 583px;
-    margin-left: calc(50% - 838px/2);
-    margin-top: calc(50% - 583px/2 - 0.5px);
+    margin-left: calc(39% - 838px/2);
+    margin-top: calc(23% - 583px/2 - 0.5px);
     background: #fff;
     border-radius: 41px;
+}
+
+.welcome-text {
+    position: absolute;
+    width: 652px;
+    height: 139px;
+    left: calc(50% - 652px/2);
+    top: calc(50% - 139px/2 - 157.5px);
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.about-text {
+    position: absolute;
+    width: 400px;
+    height: 153px;
+    left: calc(5%);
+    top: calc(40%);
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.bactery-image-container {
+    position: absolute;
+    width: 100px;
+    height: 136px;
+    left: calc(50% - 100px/2 + 255px);
+    top: calc(50% - 136px/2 + 50.71px);
+    transform: rotate(-45deg);
+}
+
+.start-btn {
+    position: absolute;
+    width:355px;
+    height: 98px;
+    left: 242px;
+    right: 241px;
+    top: 428px;
+    bottom: 57px;
+    background: #2FB500;
+    border-radius: 33px;
+}
+
+.start-txt {
+    position: absolute;
+    left: 25%;
+    top: 31%;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
 }
