@@ -15,6 +15,11 @@ namespace EvolutionSimulation.Controllers
             return View();
         }
 
+        public ActionResult Params()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

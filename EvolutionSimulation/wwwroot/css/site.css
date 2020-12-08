@@ -113,3 +113,13 @@ body {
     text-align: center;
     color: #FFFFFF;
 }
+
+.big-white-rectangle {
+    position: absolute;
+    width: 1288px;
+    height: 670px;
+    left: calc(50% - 1288px/2 + 1px);
+    top: calc(61% - 800px/2 - 0.5px);
+    background: #FFFFFF;
+    border-radius: 41px;
+}
