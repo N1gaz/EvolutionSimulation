@@ -123,3 +123,50 @@ body {
     background: #FFFFFF;
     border-radius: 41px;
 }
+
+input[type = range] {
+    width: 40% !important;
+    flood-color: yellow;
+}
+
+.mutation-probability-slider {
+    position: absolute;
+    left: calc(50% - 416px/2 + 0.5px);
+    top: calc(50% - 11px/2 - 0.5px);
+}
+
+.setup-text {
+    position: absolute;
+    width: 652px;
+    height: 139px;
+    left: calc(50% - 652px/2);
+    top: calc(5%);
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.radio {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.radio_input {
+    -webkit-appearance: none; /* Chrome */
+    -moz-appearance: none; /* Firefox */
+    visibility: hidden;
+    position: absolute;
+}
+
+.radio_label {
+    padding-left: 25px; /* отступ слева */
+    font-size: 1rem;
+    color: #444;
+    cursor: pointer; /* курсор рука */
+}
